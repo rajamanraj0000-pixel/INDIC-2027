@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="web_standard" name="shell-type"/>
+<title>Registration & Fee Slabs | INDIC 2027</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;family=Space+Grotesk:wght@500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="style.css" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "on-background": "#dfe2f1",
+            "tertiary": "#ffc08e",
+            "tertiary-fixed-dim": "#ffb77d",
+            "error": "#ffb4ab",
+            "outline-variant": "#534434",
+            "secondary-fixed-dim": "#7bd0ff",
+            "error-container": "#93000a",
+            "on-surface": "#dfe2f1",
+            "secondary-fixed": "#c4e7ff",
+            "on-secondary-fixed-variant": "#004c69",
+            "inverse-surface": "#dfe2f1",
+            "on-primary-container": "#613b00",
+            "on-surface-variant": "#d8c3ad",
+            "surface-container-high": "#262a35",
+            "secondary-container": "#00a6e0",
+            "on-error": "#690005",
+            "on-secondary": "#00354a",
+            "surface": "#0f131d",
+            "on-error-container": "#ffdad6",
+            "on-tertiary-fixed-variant": "#6e3900",
+            "outline": "#a08e7a",
+            "on-tertiary-container": "#6a3700",
+            "surface-dim": "#0f131d",
+            "inverse-primary": "#855300",
+            "surface-tint": "#ffb95f",
+            "on-primary-fixed-variant": "#653e00",
+            "on-secondary-container": "#00374d",
+            "primary-fixed": "#ffddb8",
+            "on-tertiary-fixed": "#2f1500",
+            "primary-container": "#f59e0b",
+            "surface-container-low": "#171b26",
+            "inverse-on-surface": "#2c303b",
+            "background": "#0f131d",
+            "secondary": "#7bd0ff",
+            "tertiary-fixed": "#ffdcc3",
+            "primary-fixed-dim": "#ffb95f",
+            "surface-container": "#1c1f2a",
+            "primary": "#ffc174",
+            "surface-bright": "#353944",
+            "on-primary-fixed": "#2a1700",
+            "on-tertiary": "#4d2600",
+            "on-primary": "#472a00",
+            "surface-container-lowest": "#0a0e18",
+            "surface-container-highest": "#313540",
+            "tertiary-container": "#ff9837",
+            "on-secondary-fixed": "#001e2c",
+            "surface-variant": "#313540"
+          },
+          borderRadius: {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "2xl": "1rem",
+            "full": "9999px"
+          },
+          spacing: {
+            "space-lg": "1.5rem",
+            "margin": "3rem",
+            "space-xl": "2.5rem",
+            "space-sm": "0.5rem",
+            "space-md": "1rem",
+            "space-xs": "0.25rem",
+            "gutter": "1.5rem",
+            "margin-mobile": "1.25rem",
+            "gutter-mobile": "1rem"
+          },
+          fontFamily: {
+            "headline-lg": ["Space Grotesk", "sans-serif"],
+            "label-md": ["Inter", "sans-serif"],
+            "body-lg": ["Plus Jakarta Sans", "sans-serif"],
+            "headline-xl-mobile": ["Space Grotesk", "sans-serif"],
+            "title-lg": ["Plus Jakarta Sans", "sans-serif"],
+            "display-lg": ["Space Grotesk", "sans-serif"],
+            "code-sm": ["Inter", "monospace"],
+            "title-md": ["Plus Jakarta Sans", "sans-serif"],
+            "headline-md": ["Space Grotesk", "sans-serif"],
+            "display-lg-mobile": ["Space Grotesk", "sans-serif"],
+            "headline-xl": ["Space Grotesk", "sans-serif"],
+            "body-md": ["Plus Jakarta Sans", "sans-serif"],
+            "label-lg": ["Inter", "sans-serif"]
+          }
+        }
+      }
+    };
+  </script>
+</head>
+<body class="bg-surface font-body-md text-body-md text-on-surface antialiased" data-page="registration">
+<!-- TOP ANNOUNCEMENT TICKER -->
+<div class="w-full bg-surface-container-lowest border-b border-outline-variant/30 py-1.5 px-gutter text-center relative z-50 text-[12px] font-code-sm text-on-surface-variant flex items-center justify-center gap-3">
+<span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-primary-container/15 text-primary text-[11px] font-semibold tracking-wider uppercase">
+<span class="w-1.5 h-1.5 rounded-full bg-primary animate-pulse"></span>
+      Hybrid Mode
+    </span>
+<span>1st International Conference on Indian Knowledge Systems (IKS) • In-Person (Jaipur) &amp; Global Live Stream</span>
+<span class="hidden md:inline text-outline-variant">•</span>
+<span class="hidden md:inline text-primary font-medium">NEP 2020 &amp; MoE IKS Division Aligned</span>
+</div>
+<!-- HEADER -->
+<header class="sticky top-0 left-0 right-0 z-50 bg-surface-container-lowest/90 backdrop-blur-xl border-b border-outline-variant/30">
+<div class="h-20 max-w-[1380px] mx-auto px-gutter flex items-center justify-between gap-space-md">
+<!-- Conference Branding / Logo -->
+<a class="flex items-center gap-space-sm shrink-0 group" href="index.html">
+<img alt="INDIC 2027 Conference Logo" class="h-11 w-auto object-contain transition-transform group-hover:scale-[1.02]" src="https://lh3.googleusercontent.com/aida/AEtjO1XChTJQwzXmRhyBnCRrSFT34Xl52CEL-eoIKUcwN-ILP-M2r5NcLPexwu-t1jOu1b6rXWDfbNNy-_iQEiMDWhLBzM4U0-ASJJrpG9IZjAOX9ZL52TU9C2GgXo42Mx2gwDQzKT3zkFftxVJbUTlPW3SBLG0mtqdaw4kPXZmm9fKJ7YAvl7VYQa4nlcjFMwu72G4s2Jt56FTxOIOQTvEK0Y_dvzom6h8Ha0l0ATu9yBOZME-cpdDvYIim6zs"/>
+</a>
+<!-- Desktop Navigation Menu -->
+<nav class="hidden 2xl:flex items-center gap-1 p-1 rounded-full bg-surface-container-low/70 border border-outline-variant/30 text-[13px] font-title-md">
+<a data-nav="home" class="px-3.5 py-2 rounded-full transition-colors nav-link" href="index.html">Home</a>
+<a data-nav="about" class="px-3.5 py-2 rounded-full transition-colors nav-link" href="about.html">About INDIC</a>
+<a data-nav="tracks" class="px-3.5 py-2 rounded-full transition-colors nav-link" href="tracks.html">Tracks &amp; Scope</a>
+<a data-nav="programme" class="px-3.5 py-2 rounded-full transition-colors nav-link" href="programme.html">Programme</a>
+<a data-nav="registration" class="px-3.5 py-2 rounded-full transition-colors nav-link" href="registration.html">Registration &amp; Slabs</a>
+<a data-nav="venue" class="px-3.5 py-2 rounded-full transition-colors nav-link" href="venue.html">Venue &amp; Observatory</a>
+<a data-nav="committee" class="px-3.5 py-2 rounded-full transition-colors nav-link" href="venue.html#committee">Committee</a>
+<a data-nav="contact" class="px-3.5 py-2 rounded-full transition-colors nav-link" href="contact.html">Contact</a>
+</nav>
+<!-- Action Buttons & Badges -->
+<div class="flex items-center gap-3 shrink-0">
+<div class="hidden lg:flex items-center gap-2 px-3 py-1.5 rounded-lg border border-outline-variant/40 bg-surface-container-low">
+<div class="w-2 h-2 rounded-full bg-primary animate-ping"></div>
+<div class="flex flex-col text-left">
+<span class="font-code-sm text-[10px] text-primary uppercase font-bold tracking-wider leading-none">UEM Jaipur</span>
+<span class="font-code-sm text-[11px] text-on-surface font-semibold leading-tight mt-0.5">02 – 03 April 2027</span>
+</div>
+</div>
+<a class="px-4 md:px-5 py-2.5 rounded-lg bg-primary-container text-on-primary font-title-md text-[14px] font-bold tracking-wide hover:brightness-110 shadow-[0_4px_20px_rgba(245,158,11,0.3)] transition-all flex items-center gap-1.5" href="registration.html">
+<span class="material-symbols-outlined text-[19px]">edit_document</span>
+<span>Submit Abstract</span>
+</a>
+</div>
+</div>
+</header>
+<main class="w-full bg-surface">
+<div class="flex flex-col w-full">
+<!-- REGISTRATION FEE SLABS (PRICING SECTION) -->
+<section class="w-full bg-surface-container-lowest py-20 lg:py-28 border-t border-outline-variant/30 relative" id="registration">
+<div class="max-w-[1380px] mx-auto px-gutter">
+<div class="flex flex-col items-center text-center max-w-3xl mx-auto mb-16">
+<div class="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-primary-container/10 border border-primary-container/30 mb-3">
+<span class="font-code-sm text-xs text-primary font-bold tracking-wider uppercase">Transparent Academic Fees</span>
+</div>
+<h2 class="font-headline-xl text-3xl sm:text-4xl text-on-surface font-bold tracking-tight mb-4">
+              Registration Fee Slabs &amp; Inclusions
+            </h2>
+<p class="font-body-lg text-base text-on-surface-variant">
+              In-person registration includes full access to all technical sessions, conference kit, ISBN proceedings, networking meals, cultural banquet, and the guided Jantar Mantar expedition.
+            </p>
+</div>
+<!-- Cards Grid for Registration Tiers -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+<!-- Slab 1: Students & Scholars -->
+<div class="p-6 rounded-2xl bg-surface-container-low border border-outline-variant/30 flex flex-col justify-between hover:border-primary/50 transition-all shadow-xl">
+<div>
+<div class="flex items-center justify-between mb-4">
+<span class="font-code-sm text-xs text-primary uppercase font-bold tracking-wider">Students &amp; Scholars</span>
+<span class="material-symbols-outlined text-primary text-[22px]">school</span>
+</div>
+<h3 class="font-headline-md text-lg text-on-surface font-bold mb-2">Research Scholars &amp; PG Students</h3>
+<p class="font-body-md text-xs text-on-surface-variant mb-6">Valid student identity card required at verification.</p>
+<div class="p-4 rounded-xl bg-surface-container-high/60 border border-outline-variant/20 mb-4">
+<span class="font-code-sm text-[10px] text-primary uppercase font-bold block">Early-Bird Rate</span>
+<span class="font-headline-lg text-3xl font-extrabold text-on-surface">₹1,200</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant block mt-0.5">Till 28 Feb 2027</span>
+</div>
+<div class="p-4 rounded-xl bg-surface-container/40 border border-outline-variant/10">
+<span class="font-code-sm text-[10px] text-on-surface-variant uppercase font-semibold block">Late / Regular Rate</span>
+<span class="font-headline-md text-2xl font-bold text-on-surface">₹1,800</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant block mt-0.5">Till 20 March 2027</span>
+</div>
+</div>
+<a class="mt-6 w-full py-2.5 rounded-lg bg-surface-container-highest hover:bg-primary-container hover:text-on-primary text-center font-title-md text-xs font-semibold transition-colors block border border-outline-variant/30" href="contact.html">Select Student Pass</a>
+</div>
+<!-- Slab 2: Faculty Delegates (Featured) -->
+<div class="p-6 rounded-2xl bg-surface-container border-2 border-primary shadow-2xl flex flex-col justify-between relative transform lg:-translate-y-2">
+<div class="absolute -top-3.5 left-1/2 -translate-x-1/2 px-3 py-0.5 rounded-full bg-primary text-on-primary font-code-sm text-[10px] font-extrabold uppercase tracking-wider shadow">
+                Most Popular
+              </div>
+<div>
+<div class="flex items-center justify-between mb-4">
+<span class="font-code-sm text-xs text-primary uppercase font-bold tracking-wider">Faculty &amp; Postdocs</span>
+<span class="material-symbols-outlined text-primary text-[22px]">badge</span>
+</div>
+<h3 class="font-headline-md text-lg text-on-surface font-bold mb-2">Faculty &amp; Academicians</h3>
+<p class="font-body-md text-xs text-on-surface-variant mb-6">University, college &amp; institutional faculty members.</p>
+<div class="p-4 rounded-xl bg-primary-container/15 border border-primary-container/40 mb-4">
+<span class="font-code-sm text-[10px] text-primary uppercase font-bold block">Early-Bird Rate</span>
+<span class="font-headline-lg text-3xl font-extrabold text-primary">₹2,000</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant block mt-0.5">Till 28 Feb 2027</span>
+</div>
+<div class="p-4 rounded-xl bg-surface-container-high/50 border border-outline-variant/20">
+<span class="font-code-sm text-[10px] text-on-surface-variant uppercase font-semibold block">Late / Regular Rate</span>
+<span class="font-headline-md text-2xl font-bold text-on-surface">₹2,500</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant block mt-0.5">Till 20 March 2027</span>
+</div>
+</div>
+<a class="mt-6 w-full py-2.5 rounded-lg bg-primary-container text-on-primary text-center font-title-md text-xs font-bold transition-all hover:brightness-110 shadow-md block" href="contact.html">Register as Faculty</a>
+</div>
+<!-- Slab 3: Industry & Others -->
+<div class="p-6 rounded-2xl bg-surface-container-low border border-outline-variant/30 flex flex-col justify-between hover:border-secondary/50 transition-all shadow-xl">
+<div>
+<div class="flex items-center justify-between mb-4">
+<span class="font-code-sm text-xs text-secondary uppercase font-bold tracking-wider">Corporate &amp; R&amp;D</span>
+<span class="material-symbols-outlined text-secondary text-[22px]">domain</span>
+</div>
+<h3 class="font-headline-md text-lg text-on-surface font-bold mb-2">Industry, Labs &amp; Others</h3>
+<p class="font-body-md text-xs text-on-surface-variant mb-6">Corporate practitioners, independent scholars &amp; R&amp;D labs.</p>
+<div class="p-4 rounded-xl bg-surface-container-high/60 border border-outline-variant/20 mb-4">
+<span class="font-code-sm text-[10px] text-secondary uppercase font-bold block">Early-Bird Rate</span>
+<span class="font-headline-lg text-3xl font-extrabold text-on-surface">₹3,000</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant block mt-0.5">Till 28 Feb 2027</span>
+</div>
+<div class="p-4 rounded-xl bg-surface-container/40 border border-outline-variant/10">
+<span class="font-code-sm text-[10px] text-on-surface-variant uppercase font-semibold block">Late / Regular Rate</span>
+<span class="font-headline-md text-2xl font-bold text-on-surface">₹4,000</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant block mt-0.5">Till 20 March 2027</span>
+</div>
+</div>
+<a class="mt-6 w-full py-2.5 rounded-lg bg-surface-container-highest hover:bg-secondary hover:text-on-secondary text-center font-title-md text-xs font-semibold transition-colors block border border-outline-variant/30" href="contact.html">Select Industry Pass</a>
+</div>
+<!-- Slab 4: International Delegates -->
+<div class="p-6 rounded-2xl bg-surface-container-low border border-outline-variant/30 flex flex-col justify-between hover:border-tertiary/50 transition-all shadow-xl">
+<div>
+<div class="flex items-center justify-between mb-4">
+<span class="font-code-sm text-xs text-tertiary uppercase font-bold tracking-wider">Global Delegates</span>
+<span class="material-symbols-outlined text-tertiary text-[22px]">public</span>
+</div>
+<h3 class="font-headline-md text-lg text-on-surface font-bold mb-2">International Attendees</h3>
+<p class="font-body-md text-xs text-on-surface-variant mb-6">SAARC &amp; Non-SAARC overseas researchers.</p>
+<div class="p-4 rounded-xl bg-surface-container-high/60 border border-outline-variant/20 mb-4">
+<span class="font-code-sm text-[10px] text-tertiary uppercase font-bold block">SAARC Delegates</span>
+<div class="flex items-baseline gap-2">
+<span class="font-headline-md text-2xl font-extrabold text-on-surface">$75</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant">Early / $100 Late</span>
+</div>
+</div>
+<div class="p-4 rounded-xl bg-surface-container/40 border border-outline-variant/10">
+<span class="font-code-sm text-[10px] text-on-surface-variant uppercase font-semibold block">Other Foreign Delegates</span>
+<div class="flex items-baseline gap-2">
+<span class="font-headline-md text-2xl font-bold text-on-surface">$125</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant">Early / $175 Late</span>
+</div>
+</div>
+</div>
+<a class="mt-6 w-full py-2.5 rounded-lg bg-surface-container-highest hover:bg-tertiary hover:text-on-tertiary text-center font-title-md text-xs font-semibold transition-colors block border border-outline-variant/30" href="contact.html">Register International</a>
+</div>
+</div>
+<!-- Hybrid Online Attendance Card Callout -->
+<div class="p-6 rounded-2xl bg-gradient-to-r from-surface-container-high via-surface-container to-surface-container-high border border-outline-variant/30 flex flex-col md:flex-row items-center justify-between gap-6 shadow-xl">
+<div class="flex items-center gap-4">
+<div class="w-12 h-12 rounded-xl bg-primary-container/20 flex items-center justify-center text-primary shrink-0">
+<span class="material-symbols-outlined text-[26px]">devices</span>
+</div>
+<div>
+<h4 class="font-title-lg text-base font-bold text-on-surface">Remote / Online Attendance Option</h4>
+<p class="font-body-md text-xs sm:text-sm text-on-surface-variant mt-0.5">
+                  Unable to travel to Jaipur? Access live technical tracks, ask live questions, and receive digital proceedings &amp; e-certificate.
+                </p>
+</div>
+</div>
+<div class="flex items-center gap-4 shrink-0">
+<div class="text-right">
+<span class="font-headline-md text-xl font-bold text-primary">₹500 / $25</span>
+<span class="font-code-sm text-[11px] text-on-surface-variant block">Flat Online Rate</span>
+</div>
+<a class="px-5 py-2.5 rounded-xl bg-primary-container text-on-primary font-title-md text-xs font-bold hover:brightness-110 transition-all" href="contact.html">
+                Register Virtual
+              </a>
+</div>
+</div>
+</div>
+</section>
+<!-- WHAT'S INCLUDED CHECKLIST -->
+<section class="w-full bg-surface py-16 lg:py-20 border-t border-outline-variant/30">
+<div class="max-w-[1380px] mx-auto px-gutter">
+<div class="flex flex-col items-center text-center max-w-3xl mx-auto mb-12">
+<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-tertiary-container/10 border border-tertiary-container/30 mb-3">
+<span class="font-code-sm text-xs text-tertiary font-bold tracking-wider uppercase">What You Get</span>
+</div>
+<h2 class="font-headline-xl text-2xl sm:text-3xl text-on-surface font-bold tracking-tight">Every In-Person Pass Includes</h2>
+</div>
+<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+<div class="flex flex-col items-center text-center gap-2 p-5 rounded-2xl bg-surface-container-low border border-outline-variant/20">
+<span class="material-symbols-outlined text-primary text-[26px]">confirmation_number</span>
+<span class="font-title-md text-xs font-semibold text-on-surface">Delegate Kit</span>
+</div>
+<div class="flex flex-col items-center text-center gap-2 p-5 rounded-2xl bg-surface-container-low border border-outline-variant/20">
+<span class="material-symbols-outlined text-secondary text-[26px]">menu_book</span>
+<span class="font-title-md text-xs font-semibold text-on-surface">ISBN Proceedings</span>
+</div>
+<div class="flex flex-col items-center text-center gap-2 p-5 rounded-2xl bg-surface-container-low border border-outline-variant/20">
+<span class="material-symbols-outlined text-tertiary text-[26px]">restaurant</span>
+<span class="font-title-md text-xs font-semibold text-on-surface">All Meals</span>
+</div>
+<div class="flex flex-col items-center text-center gap-2 p-5 rounded-2xl bg-surface-container-low border border-outline-variant/20">
+<span class="material-symbols-outlined text-primary text-[26px]">celebration</span>
+<span class="font-title-md text-xs font-semibold text-on-surface">Cultural Banquet</span>
+</div>
+<div class="flex flex-col items-center text-center gap-2 p-5 rounded-2xl bg-surface-container-low border border-outline-variant/20">
+<span class="material-symbols-outlined text-secondary text-[26px]">explore</span>
+<span class="font-title-md text-xs font-semibold text-on-surface">Jantar Mantar Visit</span>
+</div>
+<div class="flex flex-col items-center text-center gap-2 p-5 rounded-2xl bg-surface-container-low border border-outline-variant/20">
+<span class="material-symbols-outlined text-tertiary text-[26px]">workspace_premium</span>
+<span class="font-title-md text-xs font-semibold text-on-surface">e-Certificate</span>
+</div>
+</div>
+<p class="text-center font-code-sm text-xs text-on-surface-variant mt-6">Travel and accommodation are not included in the registration fee.</p>
+</div>
+</section>
+<!-- HOW TO REGISTER: HORIZONTAL STEPPER -->
+<section class="w-full bg-surface-container-lowest py-16 lg:py-20 border-t border-outline-variant/30">
+<div class="max-w-[1380px] mx-auto px-gutter">
+<div class="flex flex-col items-center text-center max-w-3xl mx-auto mb-14">
+<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-secondary-container/15 border border-secondary-container/30 mb-3">
+<span class="font-code-sm text-xs text-secondary font-bold tracking-wider uppercase">Four Simple Steps</span>
+</div>
+<h2 class="font-headline-xl text-2xl sm:text-3xl text-on-surface font-bold tracking-tight">How to Register</h2>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 relative">
+<div class="hidden lg:block absolute top-6 left-[12.5%] right-[12.5%] h-[2px] bg-outline-variant/30"></div>
+<div class="relative flex flex-col items-center text-center gap-4">
+<div class="w-12 h-12 rounded-full bg-primary-container text-on-primary flex items-center justify-center font-headline-md font-bold text-lg shadow-lg z-10">1</div>
+<h4 class="font-title-md text-sm font-bold text-on-surface">Pick Your Category</h4>
+<p class="font-body-md text-xs text-on-surface-variant leading-relaxed">Match your slab — student, faculty, industry, or international — against the fee table above.</p>
+</div>
+<div class="relative flex flex-col items-center text-center gap-4">
+<div class="w-12 h-12 rounded-full bg-secondary-container text-on-secondary flex items-center justify-center font-headline-md font-bold text-lg shadow-lg z-10">2</div>
+<h4 class="font-title-md text-sm font-bold text-on-surface">Make Payment</h4>
+<p class="font-body-md text-xs text-on-surface-variant leading-relaxed">Pay via bank transfer or UPI using the details below. Save your transaction receipt.</p>
+</div>
+<div class="relative flex flex-col items-center text-center gap-4">
+<div class="w-12 h-12 rounded-full bg-tertiary-container text-on-tertiary flex items-center justify-center font-headline-md font-bold text-lg shadow-lg z-10">3</div>
+<h4 class="font-title-md text-sm font-bold text-on-surface">Submit Proof</h4>
+<p class="font-body-md text-xs text-on-surface-variant leading-relaxed">Email your payment receipt and abstract/paper ID to the secretariat for verification.</p>
+</div>
+<div class="relative flex flex-col items-center text-center gap-4">
+<div class="w-12 h-12 rounded-full bg-primary-container text-on-primary flex items-center justify-center font-headline-md font-bold text-lg shadow-lg z-10">4</div>
+<h4 class="font-title-md text-sm font-bold text-on-surface">Get Confirmation</h4>
+<p class="font-body-md text-xs text-on-surface-variant leading-relaxed">Receive your confirmation email with delegate ID within 3–5 working days.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- PAYMENT OPTIONS -->
+<section class="w-full bg-surface py-16 lg:py-20 border-t border-outline-variant/30">
+<div class="max-w-[1380px] mx-auto px-gutter">
+<div class="flex flex-col items-center text-center max-w-3xl mx-auto mb-12">
+<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary-container/10 border border-primary-container/30 mb-3">
+<span class="font-code-sm text-xs text-primary font-bold tracking-wider uppercase">Payment Options</span>
+</div>
+<h2 class="font-headline-xl text-2xl sm:text-3xl text-on-surface font-bold tracking-tight">Two Ways to Pay</h2>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+<!-- Bank Transfer -->
+<div class="p-8 rounded-2xl bg-surface-container-low border border-outline-variant/30 shadow-xl">
+<div class="flex items-center gap-3 mb-6">
+<div class="w-11 h-11 rounded-xl bg-primary-container/20 flex items-center justify-center text-primary shrink-0">
+<span class="material-symbols-outlined text-[24px]">account_balance</span>
+</div>
+<h3 class="font-headline-md text-lg text-on-surface font-bold">Bank Transfer / NEFT / RTGS</h3>
+</div>
+<div class="space-y-3">
+<div class="flex items-center justify-between py-2.5 border-b border-dashed border-outline-variant/20">
+<span class="font-code-sm text-xs text-on-surface-variant uppercase">Account Name</span>
+<span class="font-title-md text-sm font-semibold text-on-surface text-right">Univ. of Engineering &amp; Mgmt, Jaipur</span>
+</div>
+<div class="flex items-center justify-between py-2.5 border-b border-dashed border-outline-variant/20">
+<span class="font-code-sm text-xs text-on-surface-variant uppercase">Account Number</span>
+<span class="font-code-sm text-sm font-semibold text-on-surface">XXXXXXXXXXXX</span>
+</div>
+<div class="flex items-center justify-between py-2.5 border-b border-dashed border-outline-variant/20">
+<span class="font-code-sm text-xs text-on-surface-variant uppercase">Bank &amp; Branch</span>
+<span class="font-title-md text-sm font-semibold text-on-surface text-right">To be shared on confirmation</span>
+</div>
+<div class="flex items-center justify-between py-2.5 border-b border-dashed border-outline-variant/20">
+<span class="font-code-sm text-xs text-on-surface-variant uppercase">IFSC Code</span>
+<span class="font-code-sm text-sm font-semibold text-on-surface">XXXXXXXXXX</span>
+</div>
+<div class="flex items-center justify-between py-2.5">
+<span class="font-code-sm text-xs text-on-surface-variant uppercase">SWIFT Code</span>
+<span class="font-code-sm text-sm font-semibold text-on-surface">XXXXXXXX</span>
+</div>
+</div>
+<p class="font-code-sm text-[11px] text-on-surface-variant mt-6">Full bank details are emailed once your abstract is accepted. Contact the secretariat for early requests.</p>
+</div>
+<!-- UPI -->
+<div class="p-8 rounded-2xl bg-surface-container-low border border-outline-variant/30 shadow-xl flex flex-col">
+<div class="flex items-center gap-3 mb-6">
+<div class="w-11 h-11 rounded-xl bg-secondary-container/20 flex items-center justify-center text-secondary shrink-0">
+<span class="material-symbols-outlined text-[24px]">qr_code_2</span>
+</div>
+<h3 class="font-headline-md text-lg text-on-surface font-bold">UPI Transfer</h3>
+</div>
+<div class="flex-1 flex flex-col items-center justify-center gap-4 py-6">
+<div class="w-32 h-32 rounded-2xl bg-surface-container-high border border-outline-variant/30 flex items-center justify-center">
+<span class="material-symbols-outlined text-secondary text-[64px]">qr_code_2</span>
+</div>
+<div class="text-center">
+<span class="font-code-sm text-xs text-on-surface-variant uppercase block mb-1">UPI ID</span>
+<span class="font-headline-md text-lg font-bold text-secondary">indic2027@upi</span>
+</div>
+</div>
+<p class="font-code-sm text-[11px] text-on-surface-variant mt-2 text-center">Mention your abstract or paper ID in the payment note so we can match your transaction.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- FINAL CTA -->
+<section class="w-full bg-surface-container-lowest py-16 lg:py-20 border-t border-outline-variant/30">
+<div class="max-w-[1380px] mx-auto px-gutter">
+<div class="relative overflow-hidden p-10 sm:p-14 rounded-3xl bg-gradient-to-br from-surface-container via-surface-container-high to-surface-container border border-primary-container/30 shadow-2xl text-center">
+<div class="absolute -top-10 -right-10 w-56 h-56 bg-primary/10 rounded-full blur-3xl pointer-events-none"></div>
+<div class="absolute -bottom-10 -left-10 w-56 h-56 bg-secondary/10 rounded-full blur-3xl pointer-events-none"></div>
+<div class="relative">
+<span class="material-symbols-outlined text-primary text-[40px] mb-4 inline-block">how_to_reg</span>
+<h2 class="font-headline-xl text-2xl sm:text-3xl text-on-surface font-bold tracking-tight mb-3">Ready to Register?</h2>
+<p class="font-body-lg text-sm sm:text-base text-on-surface-variant max-w-xl mx-auto mb-8">
+                Secure your spot at INDIC 2027 by completing payment and sending your confirmation to the secretariat.
+              </p>
+<a class="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-gradient-to-r from-[#F59E0B] to-[#D97706] text-on-primary font-title-md text-sm font-bold tracking-wide shadow-[0_8px_24px_rgba(245,158,11,0.35)] hover:brightness-110 transition-all" href="contact.html">
+<span>Confirm My Registration</span>
+<span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
+</main>
+
+<!-- FOOTER -->
+<footer class="w-full bg-surface-container-lowest border-t border-outline-variant/30">
+<div class="max-w-[1380px] mx-auto px-gutter pt-16 pb-10">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-8 lg:gap-12">
+<!-- Col 1: About INDIC & Logo (4 cols) -->
+<div class="lg:col-span-4 flex flex-col items-start">
+<div class="flex items-center gap-2 mb-4">
+<img alt="INDIC 2027 Logo" class="h-16 w-auto sm:h-20" src="https://lh3.googleusercontent.com/aida/AEtjO1XChTJQwzXmRhyBnCRrSFT34Xl52CEL-eoIKUcwN-ILP-M2r5NcLPexwu-t1jOu1b6rXWDfbNNy-_iQEiMDWhLBzM4U0-ASJJrpG9IZjAOX9ZL52TU9C2GgXo42Mx2gwDQzKT3zkFftxVJbUTlPW3SBLG0mtqdaw4kPXZmm9fKJ7YAvl7VYQa4nlcjFMwu72G4s2Jt56FTxOIOQTvEK0Y_dvzom6h8Ha0l0ATu9yBOZME-cpdDvYIim6zs"/>
+</div>
+<div class="flex items-center gap-2 px-3 py-2 rounded-lg bg-surface-container border border-outline-variant/30 text-on-surface-variant">
+<span class="material-symbols-outlined text-primary text-[18px]">verified</span>
+<span class="font-label-md text-xs">Organized by UEM Jaipur in alignment with NEP 2020 IKS Goals</span>
+</div>
+</div>
+<!-- Col 2: Quick Links (2 cols) -->
+<div class="lg:col-span-2 flex flex-col">
+<h4 class="font-title-lg text-sm font-bold text-on-surface mb-4 uppercase tracking-wider">Quick Links</h4>
+<ul class="flex flex-col gap-2.5 font-body-md text-xs sm:text-sm text-on-surface-variant">
+<li><a class="hover:text-primary transition-colors" href="about.html">About INDIC</a></li>
+<li><a class="hover:text-primary transition-colors" href="tracks.html">7 Academic Tracks</a></li>
+<li><a class="hover:text-primary transition-colors" href="programme.html">Two-Day Schedule</a></li>
+<li><a class="hover:text-primary transition-colors" href="registration.html">Registration Slabs</a></li>
+<li><a class="hover:text-primary transition-colors" href="venue.html">Jantar Mantar Visit</a></li>
+<li><a class="hover:text-primary transition-colors" href="venue.html#committee">Organizing Committee</a></li>
+</ul>
+</div>
+<!-- Col 3: Academic Host & Accreditation (3 cols) -->
+<div class="lg:col-span-3 flex flex-col">
+<h4 class="font-title-lg text-sm font-bold text-on-surface mb-4 uppercase tracking-wider">Host Institution</h4>
+<p class="font-body-md text-xs sm:text-sm text-on-surface-variant mb-2 leading-relaxed">
+<strong class="text-on-surface block font-semibold">University of Engineering &amp; Management (UEM)</strong>
+            Jaipur Campus, Rajasthan, India.
+          </p>
+<div class="mt-2 pt-2 border-t border-outline-variant/20 flex flex-col gap-1 text-xs text-on-surface-variant font-code-sm">
+<span>• NAAC Accredited &amp; AICTE Approved</span>
+<span>• Motto: “Shraddhavan Labhate Jnanam”</span>
+<span>• Conference Record ISBN Volume</span>
+<span>• Peer-Reviewed Post-Conference Book Series</span>
+</div>
+</div>
+<!-- Col 4: Secretariat & Venue Address (3 cols) -->
+<div class="lg:col-span-3 flex flex-col">
+<h4 class="font-title-lg text-sm font-bold text-on-surface mb-4 uppercase tracking-wider">Conference Venue</h4>
+<div class="flex items-start gap-2 text-on-surface-variant font-body-md text-xs sm:text-sm mb-3 leading-relaxed">
+<span class="material-symbols-outlined text-primary shrink-0 mt-0.5 text-[18px]">location_on</span>
+<span>Gurukul Campus, Sikar Road (NH-11),<br/>Udaipuria Mod, Jaipur, Rajasthan 303807, India</span>
+</div>
+<div class="flex items-center gap-2 text-on-surface-variant font-body-md text-xs sm:text-sm mb-2">
+<span class="material-symbols-outlined text-primary shrink-0 text-[18px]">mail</span>
+<a class="hover:text-primary transition-colors font-code-sm text-xs" href="mailto:indic2027@uem.edu.in">indic2027@uem.edu.in</a>
+</div>
+<div class="flex items-center gap-2 text-on-surface-variant font-body-md text-xs sm:text-sm">
+<span class="material-symbols-outlined text-secondary shrink-0 text-[18px]">person</span>
+<span class="text-xs">Convener: Dr. Pallavi Malik (Dept. of Mathematics)</span>
+</div>
+</div>
+</div>
+<!-- Bottom copyright & academic terms -->
+<div class="mt-12 pt-6 border-t border-outline-variant/20 flex flex-col md:flex-row items-center justify-between gap-4 text-on-surface-variant font-code-sm text-xs">
+<div>
+          © 2027 INDIC. 1st International Conference on Indian Knowledge Systems. Hosted by UEM Jaipur.
+        </div>
+<div class="flex items-center gap-4 text-[11px]">
+<a class="hover:text-primary transition-colors" href="#">Academic Ethics Policy</a>
+<span>•</span>
+<a class="hover:text-primary transition-colors" href="#">Author Guidelines</a>
+<span>•</span>
+<a class="hover:text-primary transition-colors" href="#">Privacy Statement</a>
+</div>
+</div>
+</div>
+</footer>
+<script src="script.js"></script>
+</body></html>

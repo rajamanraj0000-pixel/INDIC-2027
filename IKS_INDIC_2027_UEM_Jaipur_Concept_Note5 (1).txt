@@ -1,0 +1,151 @@
+CONCEPT NOTE
+International Network for Discourse on Indian Civilizational knowledge - (INDIC 2027): 1st International Conference on Indian Knowledge Systems
+
+INDIC-2027
+02 - 03 April 2027 | University of Engineering & Management, Jaipur, India
+Host institutionUniversity of Engineering & Management (UEM), Jaipur, Rajasthan, IndiaOrganising departmentIKS Centre, UEM JaipurDatesFriday 02 - Saturday 03 April 2027 (two days)VenueUEM Jaipur campus, Gurukul, Sikar Road (NH-11), near Udaipuria Mod, Jaipur 303807ModeHybrid - in person, with a streamed track for overseas participantsLevelInternationalExpected participation150-200 ; delegates from 8-10 countries
+
+1.  Background and Rationale
+The National Education Policy 2020 mandates the integration of Indian Knowledge Systems into higher education, and the IKS Division of the Ministry of Education has since supported IKS centres, curricula and research across technical institutions. Most of the resulting activity has been concentrated in the humanities. The mathematical, astronomical and engineering traditions of India - the Sulbasutras, the Aryabha?iya and its commentarial tradition, the Bakhshali manuscript, the Kerala school's infinite series, Jyoti?sastra computational methods, metallurgy, water engineering and Vastu geometry - remain comparatively under-served at conference level, even though this is the strand where primary sources are most amenable to rigorous, verifiable scholarship.
+Two gaps motivate this conference:
+1. A methodological gap. IKS scholarship in the sciences oscillates between uncritical claim-making and outright neglect. There are few forums in which a mathematician, a Sanskritist and a historian of science are in the same room and hold each other to a common evidentiary standard.
+2. A pipeline gap. Institutions are being asked to teach IKS content in STEM programmes without a body of peer-reviewed, classroom-ready material grounded in primary texts.
+The conference is international by design. Substantial work on Indian mathematics and astronomy is done outside India - in the history-of-science communities of Europe, Japan, the United States and West Asia - and the transmission questions at the heart of the field (Indo-Arabic-European exchange, Kerala-to-Europe priority debates) cannot be settled by a domestic conversation alone.
+2.  Aim
+To establish a rigorous, source-based international forum for research on the mathematical, scientific and technological knowledge traditions of India, and to convert that research into peer-reviewed publications and teachable curriculum material for higher education.
+3.  Objectives
+1. Bring together mathematicians, historians of science, Sanskritists, archaeologists and engineering faculty from India and abroad on a shared evidentiary footing.
+2. Present and debate current research on Indian mathematical, astronomical and technological traditions drawn from primary sources.
+3. Produce teaching-ready modules mapping IKS content onto existing UG and PG syllabi in mathematics, physics, computer science and engineering.
+4. Train early-career researchers in source-critical method - manuscript access, editions, translation pitfalls, dating controversies, computational reconstruction.
+5. Build durable international collaboration: joint publications, student and faculty exchange, and institutional MoUs arising from the meeting.
+6. Establish a standing network and a biennial conference series hosted at UEM Jaipur.
+
+
+4.  Scope
+In scope. Research grounded in primary evidence - Sanskrit, Prakrit, Tamil, Persian and other Indic-language texts; manuscripts and commentaries; inscriptions; archaeological and artefactual material; and computational or experimental reconstruction of documented historical procedures. Comparative and transmission studies involving Greek, Chinese, Islamicate and European traditions are welcome where India is a substantive term in the comparison. Pedagogical and curricular contributions are welcome where they are anchored to identifiable sources.
+Standard of review. All submissions are reviewed double-blind by at least two reviewers against ordinary scholarly standards of evidence. This standard is stated openly and is the conference's principal differentiator.
+Coverage. Chronologically from the Harappan period to the colonial encounter, with a final track on contemporary application and pedagogy. Geographically the whole of the Indian subcontinent, including regional and vernacular scientific traditions that are typically crowded out by the Sanskrit mainstream.
+5.  Topics
+Submissions are invited under seven tracks. The lists below are indicative, not exhaustive.
+Track A - Mathematics
+• Sulbasutra geometry; altar construction and the sides-and-diagonal relation
+• Decimal place-value system, numeration, zero - evidence and chronology
+• Algorithms in Aryabha?a, Brahmagupta, Mahavira, Sridhara, Bhaskara I and II
+• Ku??aka, indeterminate analysis, cakravala
+• Combinatorics, meru-prastara and prosody - Pi?gala, Hemacandra, Naraya?a Pa??ita
+• The Kerala school: infinite series, the Yuktibha?a, questions of priority and transmission
+• The Bakhshali manuscript - dating, content, controversies
+• Jaina and Buddhist mathematics; large numbers and infinity
+• Commentary as mathematical practice; proof and justification (upapatti) in the Indian tradition
+Track B - Astronomy, Calendrics and Computation
+• Siddhantic planetary models and their accuracy
+• Pañca?ga computation, intercalation, calendar reform
+• Instrument traditions - yantras, Jantar Mantar, Sawai Jai Singh II's observatories
+• Correction procedures (bija sa?skara) and empirical revision
+• Computational reconstruction and error analysis of historical algorithms
+• Indo-Islamic astronomical exchange; zij literature in India
+Track C - Technology, Engineering and Materials
+• Metallurgy - wootz steel, zinc distillation at Zawar, the Delhi iron pillar
+• Water systems - Harappan drainage and Dholavira reservoirs, stepwells, Rajasthan's johads and tank cascades
+• Architecture, temple geometry, Vastu and Silpa texts; structural analysis of historical monuments
+• Textiles, dyes, ceramics, glass
+• Shipbuilding, navigation and maritime technology
+Track D - Life Sciences, Agriculture and Environment
+• Ayurvedic pharmacology and its contemporary experimental validation
+• V?k?ayurveda, traditional agronomy and seed practice
+• Ethnobotany and regional healing traditions
+• Ecological and water-conservation practice in classical and folk sources, with attention to arid-zone Rajasthan
+Track E - Language, Logic and Computation
+• Pa?inian grammar as a formal system; A??adhyayi and rule ordering
+• Navya-Nyaya logic and its formalisation
+• Mima?sa interpretive rules; sastra as rule-based knowledge representation
+• Relevance to formal languages, compiler theory, knowledge graphs and AI; NLP for Indic and classical languages
+Track F - Pedagogy, Curriculum and Digital Humanities
+• IKS module design for STEM programmes; credit structures under NEP 2020
+• Assessment design and learning outcomes for IKS courses
+• Manuscript digitisation, OCR for Indic scripts, corpus building, computational philology
+• Open educational resources; teacher preparation
+Track G - Methodology, Historiography and Transmission
+• Dating and chronology debates; methods and their limits
+• Transmission - Indo-Arabic-European exchange, Kerala-to-Europe, India-China contacts
+• Colonial, nationalist and revisionist historiography of Indian science
+• Standards of evidence in IKS research; critical response to pseudo-historical claims
+• Archives, manuscript access and the politics of the source base
+6.  About UEM Jaipur
+The University of Engineering & Management, Jaipur is a private university located near Sikar Road, Jaipur, Rajasthan, offering undergraduate, postgraduate and doctoral programmes in engineering, management, physiotherapy, computer applications, sciences and allied disciplines. It was established by Ordinance 11 of 2011 and Act No. 5 of 2012 of the Government of Rajasthan. The university is part of the IEM-UEM group, a network of institutions focused on engineering and management education, and emphasises industry-oriented curricula, outcome-based education, research and entrepreneurship.
+UEM Jaipur is NAAC-accredited, AICTE-approved and ISO-certified, and holds memberships of the Association of Indian Universities, the Association of Commonwealth Universities (UK), the International Accreditation Organisation and the International Association of Universities (France). It is one of the 200 mentor institutions designated by AICTE under the Ministry of Education. The university's motto, Shraddhavan labhate jnanam, is drawn from the Bhagavad Gita - an apt frame for a conference on India's knowledge traditions.
+7.  About Jaipur
+Jaipur is the capital of Rajasthan and, for a conference on Indian scientific traditions, is close to an ideal venue - the city is itself a primary source.
+• Jantar Mantar. Sawai Jai Singh II's masonry observatory, built in the 1720s-30s and a UNESCO World Heritage Site, contains the world's largest stone sundial and a set of instruments designed for naked-eye positional astronomy of remarkable precision. It is the single best surviving demonstration of the Indian astronomical tradition in its late, instrument-building phase, and sits roughly 25 km from campus. A guided technical visit is built into the programme.
+• The city plan. Jaipur was founded in 1727 on a grid derived from Vastu and Silpa Sastra prescriptions - a working case study for Track C, and a rare instance of a classical text being executed at urban scale.
+• Wider context. Amber Fort and its water-harvesting systems; the Jaigarh cannon foundry; City Palace and its manuscript holdings; and, within reach, the Zawar zinc-smelting site - one of the earliest known industrial-scale distillation operations anywhere.
+• Access. Jaipur International Airport has direct connections to Gulf hubs and, via Delhi (about 4.5 hours by expressway or 20 minutes by air), to the rest of the world. Vande Bharat and other rail services connect Delhi in under four hours. Hotel capacity across all price bands is abundant.
+• April conditions. Warm and dry - daytime temperatures typically in the high 30s °C, low humidity, evenings comfortable. Indoor sessions must be air-conditioned; outdoor components should be scheduled early morning or after 17:00. The Jantar Mantar visit is therefore placed at first light on Day 2 or as a post-conference morning excursion.
+Jaipur's tourism infrastructure also raises the odds of overseas academics accepting an invitation, and supports accompanying-person and post-conference tour options that cost the organisers nothing.
+8.  Programme Structure
+Two days; three parallel streams after each plenary.
+Day 1 - Friday, 2 April 2027
+TimeSession08:00-09:15Registration09:15-10:30Inaugural session; lighting of lamp; Chancellor's and Vice-Chancellor's addresses; release of abstract volume; keynote10:30-11:00Tea11:00-12:30Plenary I - Mathematical traditions of India (2 invited international talks)12:30-13:30Lunch13:30-15:30Parallel technical sessions I (Tracks A, B, C)15:30-16:00Tea16:00-17:30Parallel technical sessions II (Tracks D, E, G)17:30-18:30Poster session; exhibition of manuscripts, instrument replicas and archaeometallurgical samples19:00-21:00Cultural programme (Rajasthani folk) and conference dinner
+Day 2 - Saturday, 3 April 2027
+TimeSession06:30-08:30Optional technical visit - Jantar Mantar, with commentary by an astronomy historian (pre-booked, separate coach)09:00-10:30Plenary II - Transmission, historiography and standards of evidence10:30-11:00Tea11:00-13:00Parallel technical sessions III (Tracks A, B, F)13:00-14:00Lunch14:00-15:30Workshop A: Reading a mathematical manuscript (hands-on) - in parallel with - Workshop B: Building an IKS module for a STEM syllabus15:30-16:00Tea16:00-17:00International panel - IKS in higher education: what is actually teachable?17:00-18:00Best paper and poster awards; conference resolution; MoU signing; valedictory18:00 onwardNetworking; departure
+Formats. Keynote 45 min; plenary and invited 30 min; contributed 15 + 5 min. Online presenters are slotted into a dedicated virtual session sized to overlap with European and East Asian working hours.
+9.  Target Participants
+CategoryExpectedKeynote and plenary speakers (including 4-6 international)10-12Contributed paper presenters90-110Research scholars and PG students20-30Faculty delegates and attendees40-50Online participants100+Total200-250
+Institutions targeted: IITs, NITs and IISERs with IKS centres; central and state universities; Sanskrit universities; history-of-mathematics groups at TIFR, IISc and ISI; IGNCA, ASI, INSA and the National Mission for Manuscripts; and overseas historians of Indian science in the UK, France, Germany, the Netherlands, Japan, the USA, Canada and West Asia.
+10.  Organising Structure
+RoleHeld byChief PatronChancellor, UEM JaipurPatronVice-Chancellor, UEM Jaipur, Pro Vice-Chancellor, UEM JaipurGeneral ChairRegistrar, UEM JaipurConvenerDr. Pallavi Malik, Department of MathematicsOrganising SecretariesDr. Arnab Palui, Dr. Krishna Sharma, Dr. Poonam Poonia, Dr. Sweta Pareek, Dr. Ruma Rajbhar, Dr. Aditi SoniInternational Advisory Committee (12-15)Senior scholars of Indian mathematics and astronomy from India and abroad; IKS Division nominee; INSA and NBHM representationTechnical Programme Committee (20-25)Two chairs per track; minimum two reviewers per submission; double-blindSub-committeesFinance; hospitality; publicity and website; publication; IT and hybrid streaming; student volunteers; transport11.  Timeline and Milestones
+MilestoneTargetInstitutional approval; committees constituted; dates blocked in academic calendarSeptember 2026Themes frozen; international keynote speakers approachedSeptember 2026Funding proposals submitted (IKS Division, NBHM, ANRF, INSA and others)October 2026Website and submission portal live; first call for papers15 October 2026Second call; partner MoUs; publisher engaged for proceedingsDecember 2026Abstract submission deadline15 January 2027Review complete; acceptances notified; invitation letters issued for visa purposes15 February 2027Full paper deadline; early-bird registration closes28 February 2027Final registration closes; programme frozen; abstract volume to press20 March 2027Logistics, accommodation and transport finalised; streaming rehearsal31 March 2027Conference2-3 April 2027Revised full papers for proceedings31 May 2027Edited volume / special issue submitted to publisherAugust 2027
+12.  Indicative Budget
+Costed for approximately 220 in-person delegates over two days. All figures in INR, indicative only, to be revised against actual quotations.
+Expenditure
+HeadAmount (?)Journal publication costNilFoodTo be paid to the vendor (mess contractor) on actualsConference kit?54,000Honorarium for speakers?64,600Hotel booking cost of delegatesTo be paid to the hotel directly on actualsPrinting cost including posters, certificates etc.?40,000Transportation charges for speakersTo be paid to the agent on actualsMiscellaneous cost (local transportation, news, Pink City visit etc.)?18,000Contingency?14,128Total cost?1,90,728
+Proposed income
+SourceAmount (?)Paper registration?2,20,000Grants and sponsorship (being pursued)PursuingTotal income?2,20,000Difference amount (surplus)?29,272
+
+
+
+Registration slabs (early-bird / late)
+CategoryEarly-birdLateStudents and research scholars?1,200?1,800Faculty?2,000?2,500Industry and others?3,000?4,000SAARC delegatesUSD 75USD 100Other foreign delegatesUSD 125USD 175Online attendance?500 / USD 25-Accompanying person?1,200?1,20013.  Funding Avenues
+• IKS Division, Ministry of Education (AICTE, New Delhi) - the primary and most directly relevant funder.
+• National Board for Higher Mathematics (NBHM), DAE - conference support for mathematics.
+• Anusandhan National Research Foundation (ANRF) - seminar and symposia support (formerly the SERB scheme; confirm the current scheme name and application window).
+• Indian National Science Academy (INSA) - history of science is an established INSA priority area.
+• ICHR and ICPR - for Tracks E and G.
+• IGNCA, Central Sanskrit University, National Mission for Manuscripts - partnership and in-kind support for the exhibition and the manuscript workshop.
+• Government of Rajasthan - Department of Higher Education, Department of Art and Culture, and Rajasthan Tourism, given the Jantar Mantar and heritage-city dimension.
+• DST, CSIR, ISRO where track content aligns; ICCR for international speaker travel.
+• Corporate CSR and academic publishers - Springer, Hindustan Book Agency and similar, in exchange for exhibition space.
+14.  Expected Outcomes and Deliverables
+1. Abstract volume with ISBN, released at the inaugural session.
+2. Peer-reviewed edited volume or journal special issue - 30-35 selected full papers with a reputed international publisher.
+3. Curriculum pack - 8-10 teaching modules with sources, worked exercises and reading lists, released open-access under a Creative Commons licence; usable immediately in UEM Jaipur's own NEP-mandated IKS credits.
+4. Conference resolution on standards of evidence in IKS research in the sciences, drafted in the Day 2 panel and circulated internationally for endorsement.
+5. International MoUs - at least two institutional agreements for joint research, faculty exchange or co-supervision, signed at the valedictory.
+6. Standing network - mailing list, shared repository of digitised source references, and commitment to a biennial series (Indic 2027 at UEM Jaipur).
+7. Institutional benefit - strengthens UEM Jaipur's NEP and IKS compliance record, NAAC and NIRF documentation, and international-collaboration metrics.
+15.  Publicity Plan
+Dedicated conference website and submission portal under the UEM domain; circulars to 600+ departments of mathematics, physics, Sanskrit, history and history-of-science in India and abroad; announcements through INSA, NBHM, IKS Division and Association of Commonwealth Universities channels; listings on WikiCFP, conference aggregators and history-of-science mailing lists; institutional and departmental social media; press releases in English and Hindi; posters circulated to Jaipur and Rajasthan institutions to build student participation.
+Annexure A - Draft Call for Papers (short form)
+International Network for Discourse on Indian Civilizational knowledge - INDIC 2027  
+02-03 April 2027 |  University of Engineering & Management, Jaipur, India  |  Hybrid
+We invite original, source-based research on the mathematical, astronomical, technological and scientific traditions of India, across seven tracks: (A) Mathematics; (B) Astronomy, Calendrics and Computation; (C) Technology, Engineering and Materials; (D) Life Sciences, Agriculture and Environment; (E) Language, Logic and Computation; (F) Pedagogy, Curriculum and Digital Humanities; (G) Methodology, Historiography and Transmission.
+Contributions must be grounded in primary texts, manuscripts, artefacts, archaeological evidence or documented reconstruction. Submissions are reviewed double-blind against ordinary scholarly standards of evidence; claims not supported by cited sources will not be accepted.
+Abstracts (300 words) due 15 January 2027. Notification 15 February 2027. Full papers 28 February 2027. Selected papers will appear in a peer-reviewed volume with an international publisher.
+Submit at [URL].   Queries: [email].
+
+
+Annexure B - Approvals and Actions Required Before Circulation
+1. Chancellor and Vice-Chancellor approval of the conference, dates and convener.
+2. Academic-calendar check - confirm 2-3 April 2027 is clear of university examinations .
+3. Finance office clearance for a dedicated conference account, the registration slab structure and foreign-currency receipt.
+4. Institutional authorisation to approach external funders in the university's name.
+5. Publisher approached for the proceedings volume before the first call is issued.
+
+Prepared by :Dr. pallavi Malik, Associate Professor, Department of Mathematics,
+University of Engineering & Management, Jaipur
+Date: ______________          Signature: ______________
+                                                                                                                                                                     INDIC 2027 | UEM Jaipur | 02-03 April 2027
+
+Page 1 of 2
+
